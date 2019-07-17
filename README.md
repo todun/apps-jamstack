@@ -1,39 +1,47 @@
-# [Boilerplate Code](https://boilerplate-code.appseed.us/) 
+# [JAMstack](https://jamstack.appseed.us/) 
 
-Open-Source Nodejs, Laravel and Flask **[boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code)**
-
-<br />
-
-## [Nodejs Starter](https://appseed.us/boilerplate-code/nodejs-starter)
-
-This open-source [boilerplate](https://en.wikipedia.org/wiki/Boilerplate_code) is a simple [Nodejs](https://nodejs.org/en/) / Express starter enhanced with [JWT authentication](https://jwt.io/introduction/) (passport, passport-jwt), ES6. Other Features: [SQLite](https://www.sqlite.org/index.html) database, [Sequelize](http://docs.sequelizejs.com/) ORM, secure REST api. 
-
-### Full-Stack apps built with this [Nodejs Starter](https://appseed.us/boilerplate-code/nodejs-starter)
-
- - [Express Vuejs - Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
- - [Express React - Material Kit](https://appseed.us/apps/react/express/material-kit-creative-tim) 
+Open-Source apps, built in [JAMstack](https://jamstack.org/) architecture
 
 <br />
 
-## [Laravel Boilerplate](https://github.com/app-generator/laravel-boilerplate)
+## [JAMstack HTML5Up Landed](https://appseed.us/apps/jamstack/html5up-landed)
 
-This open-source [boilerplate](https://en.wikipedia.org/wiki/Boilerplate_code) is a simple Laravel starter enhanced with JWT authentication (passport, passport-jwt), ES6. Other Features: MySql database, and a secure REST api.
-
-<br />
-
-## [Flask Boilerplate](https://github.com/app-generator/flask-boilerplate)
-
-The list with [Flask boilerplates](https://github.com/app-generator?tab=repositories&q=Flask) is quite long and popular amoung developers: [Material Dashboard](https://github.com/app-generator/flask-material-dashboard), [Argon Dashboard](https://github.com/app-generator/flask-argon-dashboard), [Flask Solid state](https://github.com/app-generator/flask-solid-state). All Flask boilerplates are equipped with authentication, SQLite database and SQLAlchemy ORM. 
+Serverless app, designed by HTML5 Up and coded in Panini Static Generator. This free app can be used for a corporate website or a simple portfolio web app. Features: Coded in Panini, Blazing fast, FTP Deploy Script, Open source.
 
 <br />
 
-## Boilerplate Resources
+![JAMstack Landed - App banner](https://github.com/app-generator/static/blob/master/products/html5up-landed.jpg?raw=true)
 
- - [Boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) - wikipedia page
- - [Boilrplate.com](http://www.boilrplate.com/) - a curated list with starters and boilerplates (open-source project)
+<br />
+
+## [JAMStack Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture)
+
+Serverless app, designed by HTML5 Up and coded in Panini Static Generator. This free app can be used for a corporate website or a simple portfolio web app. Features: Coded in Panini, Blazing fast, FTP Deploy Script, Open source. 
+
+<br />
+
+![JAMstack BigPicture - App banner.](https://github.com/app-generator/static/blob/master/products/html5up-bigpicture.jpg?raw=true)
+
+<br />
+
+## [JAMStack Fractal](https://appseed.us/apps/jamstack/html5up-fractal)
+
+Serverless app, designed by HTML5 Up and coded in Panini Static Generator. This free app can be used for a corporate website or a simple portfolio web app. Features: Coded in Panini, Blazing fast, FTP Deploy Script, Open source.
+
+<br />
+
+![JAMstack Fractal - App banner.](https://github.com/app-generator/static/blob/master/products/html5up-fractal.jpg?raw=true)
+
+<br />
+
+
+## Resources
+
+ - [JAMstack](https://jamstack.org/) - the official website
+ - [JAMstack apps](https://appseed.us/apps/jamstack) - a curated list with **JAMstack** apps
  
 <br />
 
 ---
  
-[Boilerplate Code](https://boilerplate-code.appseed.us/) provided by **AppSeed**
+[JAMstack](https://jamstack.appseed.us/) Apps provided by **AppSeed**
